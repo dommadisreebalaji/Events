@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #3a4b63;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 25px;
+  color: #ffffff;
+  display: flex;
+  font-family: Roboto;
+}
+.events-container {
+  width: 70%;
+}
+.heading {
+  font-size: 24px;
+}
+.events-container {
+}
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.status-container {
+  background-color: #ffffff;
+  width: 40%;
+  padding: 25px;
+}

@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item {
+  width: 45%;
+  list-style-type: none;
+  margin: 10px;
+}
+.image {
+  width: 90%;
+}
+.button-image {
+  background-color: transparent;
+  border-width: 0;
+}
+.heading-2 {
+  color: #ffffff;
+  margin-left: 25px;
+}
+.location {
+  color: #ffffff;
+  margin-left: 25px;
+}
